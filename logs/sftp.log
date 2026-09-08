@@ -1,0 +1,249 @@
+Sep  7 21:05:16 10.71.57.0 u111582598 Connection from 10.71.57.0 port 48890 on 82.165.88.154 port 22 rdomain ""
+Sep  7 21:05:22 10.71.57.0 u111582598 Accepted password for u111582598 from 10.71.57.0 port 48890 ssh2
+Sep  7 21:05:23 10.71.57.0 u111582598 Starting session: subsystem 'sftp' for u111582598 from 10.71.57.0 port 48890 id 0
+Sep  7 21:05:23 10.71.57.0 u111582598 session opened for local user u111582598 from [10.71.57.0]
+Sep  7 21:09:58 10.71.57.0 u111582598 Connection from 10.71.57.0 port 13182 on 82.165.88.154 port 22 rdomain ""
+Sep  7 21:09:59 10.71.57.0 u111582598 Accepted password for u111582598 from 10.71.57.0 port 13182 ssh2
+Sep  7 21:09:58 10.71.57.0 u111582598 Connection from 10.71.57.0 port 13192 on 82.165.88.154 port 22 rdomain ""
+Sep  7 21:09:59 10.71.57.0 u111582598 Accepted password for u111582598 from 10.71.57.0 port 13192 ssh2
+Sep  7 21:09:59 10.71.57.0 u111582598 Starting session: subsystem 'sftp' for u111582598 from 10.71.57.0 port 13192 id 0
+Sep  7 21:09:59 10.71.57.0 u111582598 Starting session: subsystem 'sftp' for u111582598 from 10.71.57.0 port 13182 id 0
+Sep  7 21:09:59 10.71.57.0 u111582598 session opened for local user u111582598 from [10.71.57.0]
+Sep  7 21:09:59 10.71.57.0 u111582598 session opened for local user u111582598 from [10.71.57.0]
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/aviso-legal.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/blanqueamiento-dental-seguro.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/aviso-legal.html" bytes read 5865 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|5865|0|0|0|2f617669736f2d6c6567616c2e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/blanqueamiento-dental-seguro.html" bytes read 6522 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|6522|0|0|0|2f626c616e717565616d69656e746f2d64656e74616c2d73656775726f2e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/blanqueamiento-dental.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/blog.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/blanqueamiento-dental.html" bytes read 6926 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/blog.html" bytes read 9817 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|9817|0|0|0|2f626c6f672e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|6926|0|0|0|2f626c616e717565616d69656e746f2d64656e74616c2e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/bruxismo-apretar-dientes-soluciones.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/bruxismo-atm.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/bruxismo-apretar-dientes-soluciones.html" bytes read 6570 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|6570|0|0|0|2f6272757869736d6f2d617072657461722d6469656e7465732d736f6c7563696f6e65732e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/caries-en-adultos-como-detectarlas.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/bruxismo-atm.html" bytes read 6911 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|6911|0|0|0|2f6272757869736d6f2d61746d2e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/cirugia-oral.html" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/caries-en-adultos-como-detectarlas.html" bytes read 6580 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|6580|0|0|0|2f6361726965732d656e2d6164756c746f732d636f6d6f2d64657465637461726c61732e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 close "/cirugia-oral.html" bytes read 7019 written 0
+Sep  7 21:09:59 10.71.57.0 u111582598 [10.71.57.0|get|0|7019|0|0|0|2f636972756769612d6f72616c2e68746d6c|]
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/clinica-dental-scherba-web-1.zip" flags READ mode 0666
+Sep  7 21:09:59 10.71.57.0 u111582598 open "/clinica.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/clinica.html" bytes read 10651 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|1|10651|0|0|0|2f636c696e6963612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/contacto.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/contacto.html" bytes read 11085 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|11085|0|0|0|2f636f6e746163746f2e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/cv-john-w-scherba.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/clinica-dental-scherba-web-1.zip" bytes read 415374 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|1|415374|0|0|0|2f636c696e6963612d64656e74616c2d736368657262612d7765622d312e7a6970|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/diseno-de-sonrisa.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/cv-john-w-scherba.html" bytes read 5587 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|5587|0|0|0|2f63762d6a6f686e2d772d736368657262612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/dolor-de-muela-cuando-ir-al-dentista.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/diseno-de-sonrisa.html" bytes read 6896 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6896|0|0|0|2f646973656e6f2d64652d736f6e726973612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/encias-sangran-que-significa.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/dolor-de-muela-cuando-ir-al-dentista.html" bytes read 6648 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6648|0|0|0|2f646f6c6f722d64652d6d75656c612d6375616e646f2d69722d616c2d64656e74697374612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/endodoncia.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/encias-sangran-que-significa.html" bytes read 6588 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6588|0|0|0|2f656e636961732d73616e6772616e2d7175652d7369676e69666963612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/equipo.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/endodoncia.html" bytes read 6872 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6872|0|0|0|2f656e646f646f6e6369612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/implantes-dentales-cuando-son-necesarios.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/equipo.html" bytes read 15492 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|15492|0|0|0|2f65717569706f2e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/implantologia.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/implantes-dentales-cuando-son-necesarios.html" bytes read 6590 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6590|0|0|0|2f696d706c616e7465732d64656e74616c65732d6375616e646f2d736f6e2d6e656365736172696f732e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/index.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/implantologia.html" bytes read 6865 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6865|0|0|0|2f696d706c616e746f6c6f6769612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/informacion-para-ia.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/index.html" bytes read 20636 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|20636|0|0|0|2f696e6465782e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/limpieza-dental-profesional-cada-cuanto.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/informacion-para-ia.html" bytes read 5303 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|5303|0|0|0|2f696e666f726d6163696f6e2d706172612d69612e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/odontologia-general.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/limpieza-dental-profesional-cada-cuanto.html" bytes read 6586 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6586|0|0|0|2f6c696d7069657a612d64656e74616c2d70726f666573696f6e616c2d636164612d6375616e746f2e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/ortodoncia-adultos-opciones.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/odontologia-general.html" bytes read 6923 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6923|0|0|0|2f6f646f6e746f6c6f6769612d67656e6572616c2e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/ortodoncia-convencional.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/ortodoncia-adultos-opciones.html" bytes read 6580 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6580|0|0|0|2f6f72746f646f6e6369612d6164756c746f732d6f7063696f6e65732e68746d6c|]
+Sep  7 21:10:00 10.71.57.0 u111582598 open "/ortodoncia-invisible-vs-brackets.html" flags READ mode 0666
+Sep  7 21:10:00 10.71.57.0 u111582598 close "/ortodoncia-convencional.html" bytes read 6933 written 0
+Sep  7 21:10:00 10.71.57.0 u111582598 [10.71.57.0|get|0|6933|0|0|0|2f6f72746f646f6e6369612d636f6e76656e63696f6e616c2e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/ortodoncia-invisible.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/ortodoncia-invisible-vs-brackets.html" bytes read 6578 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|1|6578|0|0|0|2f6f72746f646f6e6369612d696e76697369626c652d76732d627261636b6574732e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/periodoncia.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/ortodoncia-invisible.html" bytes read 6879 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|6879|0|0|0|2f6f72746f646f6e6369612d696e76697369626c652e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/politica-de-cookies.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/periodoncia.html" bytes read 6875 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|6875|0|0|0|2f706572696f646f6e6369612e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/politica-de-cookies.html" bytes read 5753 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|5753|0|0|0|2f706f6c69746963612d64652d636f6f6b6965732e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/politica-de-privacidad.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/protesis-fija.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 sent status No such file
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/politica-de-privacidad.html" bytes read 7001 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|7001|0|0|0|2f706f6c69746963612d64652d707269766163696461642e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/protesis-fija.html" bytes read 6907 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|6907|0|0|0|2f70726f74657369732d66696a612e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/protesis-implantologica.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/revision-dental-sin-dolor.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/revision-dental-sin-dolor.html" bytes read 6578 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|6578|0|0|0|2f7265766973696f6e2d64656e74616c2d73696e2d646f6c6f722e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/protesis-implantologica.html" bytes read 6920 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|6920|0|0|0|2f70726f74657369732d696d706c616e746f6c6f676963612e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/tratamientos.html" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/scherba-wordmark.png" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/tratamientos.html" bytes read 10756 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|10756|0|0|0|2f74726174616d69656e746f732e68746d6c|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/scherba-lockup.png" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/assets/img/scherba-wordmark.png" bytes read 71585 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|71585|0|0|0|2f6173736574732f696d672f736368657262612d776f72646d61726b2e706e67|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/scherba-icon.png" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/assets/img/scherba-lockup.png" bytes read 175822 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|175822|0|0|0|2f6173736574732f696d672f736368657262612d6c6f636b75702e706e67|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/clinica/tratamiento-paciente.jpeg" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/assets/img/scherba-icon.png" bytes read 53048 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|53048|0|0|0|2f6173736574732f696d672f736368657262612d69636f6e2e706e67|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/clinica/revision-radiografia.jpeg" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/assets/img/clinica/tratamiento-paciente.jpeg" bytes read 144252 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|144252|0|0|0|2f6173736574732f696d672f636c696e6963612f74726174616d69656e746f2d70616369656e74652e6a706567|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-luz-natural.jpeg" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/assets/img/clinica/revision-radiografia.jpeg" bytes read 155527 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|155527|0|0|0|2f6173736574732f696d672f636c696e6963612f7265766973696f6e2d726164696f6772616669612e6a706567|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-azul-3.jpeg" flags READ mode 0666
+Sep  7 21:10:01 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-luz-natural.jpeg" bytes read 161110 written 0
+Sep  7 21:10:01 10.71.57.0 u111582598 [10.71.57.0|get|0|161110|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d6c757a2d6e61747572616c2e6a706567|]
+Sep  7 21:10:01 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-azul-2.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-azul-3.jpeg" bytes read 160310 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|1|160310|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d617a756c2d332e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-arte.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-azul-2.jpeg" bytes read 182724 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|1|182724|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d617a756c2d322e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/diagnostico-radiografia.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-arte.jpeg" bytes read 182295 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|182295|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d617274652e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/atencion-clinica.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/diagnostico-radiografia.jpeg" bytes read 181608 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|181608|0|0|0|2f6173736574732f696d672f636c696e6963612f646961676e6f737469636f2d726164696f6772616669612e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/zona-trabajo.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/atencion-clinica.jpeg" bytes read 121815 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|121815|0|0|0|2f6173736574732f696d672f636c696e6963612f6174656e63696f6e2d636c696e6963612e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/sala-espera.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/zona-trabajo.jpeg" bytes read 186178 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|186178|0|0|0|2f6173736574732f696d672f636c696e6963612f7a6f6e612d74726162616a6f2e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-turquesa.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/sala-espera.jpeg" bytes read 219245 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|219245|0|0|0|2f6173736574732f696d672f636c696e6963612f73616c612d6573706572612e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-diplomas.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-turquesa.jpeg" bytes read 183748 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|183748|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d74757271756573612e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/gabinete-azul.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-diplomas.jpeg" bytes read 57298 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|57298|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d6469706c6f6d61732e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/fachada.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/gabinete-azul.jpeg" bytes read 120683 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|120683|0|0|0|2f6173736574732f696d672f636c696e6963612f676162696e6574652d617a756c2e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/equipo-trabajando.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/fachada.jpeg" bytes read 235052 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|235052|0|0|0|2f6173736574732f696d672f636c696e6963612f666163686164612e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/clinica/diagnostico-imagen.jpeg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/equipo-trabajando.jpeg" bytes read 150318 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|150318|0|0|0|2f6173736574732f696d672f636c696e6963612f65717569706f2d74726162616a616e646f2e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/equipo/rocio-perez.jpg" flags READ mode 0666
+Sep  7 21:10:02 10.71.57.0 u111582598 close "/assets/img/clinica/diagnostico-imagen.jpeg" bytes read 59412 written 0
+Sep  7 21:10:02 10.71.57.0 u111582598 [10.71.57.0|get|0|59412|0|0|0|2f6173736574732f696d672f636c696e6963612f646961676e6f737469636f2d696d6167656e2e6a706567|]
+Sep  7 21:10:02 10.71.57.0 u111582598 open "/assets/img/equipo/priscila-desantis.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/rocio-perez.jpg" bytes read 76733 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|1|76733|0|0|0|2f6173736574732f696d672f65717569706f2f726f63696f2d706572657a2e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/michelle-cedillo.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/priscila-desantis.jpg" bytes read 91987 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|1|91987|0|0|0|2f6173736574732f696d672f65717569706f2f7072697363696c612d646573616e7469732e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/marilyn-goncalves.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/michelle-cedillo.jpg" bytes read 97586 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|0|97586|0|0|0|2f6173736574732f696d672f65717569706f2f6d696368656c6c652d636564696c6c6f2e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/maivy-ordaz.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/marilyn-goncalves.jpg" bytes read 100864 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|0|100864|0|0|0|2f6173736574732f696d672f65717569706f2f6d6172696c796e2d676f6e63616c7665732e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/john-scherba.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/maivy-ordaz.jpg" bytes read 98324 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|0|98324|0|0|0|2f6173736574732f696d672f65717569706f2f6d616976792d6f7264617a2e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/jenifer-hernandez.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/john-scherba.jpg" bytes read 78354 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|0|78354|0|0|0|2f6173736574732f696d672f65717569706f2f6a6f686e2d736368657262612e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/equipo-grupo.jpg" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/jenifer-hernandez.jpg" bytes read 82736 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|0|82736|0|0|0|2f6173736574732f696d672f65717569706f2f6a656e696665722d6865726e616e64657a2e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/rocio-perez.png" flags READ mode 0666
+Sep  7 21:10:03 10.71.57.0 u111582598 close "/assets/img/equipo/equipo-grupo.jpg" bytes read 154494 written 0
+Sep  7 21:10:03 10.71.57.0 u111582598 [10.71.57.0|get|0|154494|0|0|0|2f6173736574732f696d672f65717569706f2f65717569706f2d677275706f2e6a7067|]
+Sep  7 21:10:03 10.71.57.0 u111582598 open "/assets/img/equipo/priscila-desantis-full.png" flags READ mode 0666
+Sep  7 21:10:04 10.71.57.0 u111582598 close "/assets/img/equipo/rocio-perez.png" bytes read 2316803 written 0
+Sep  7 21:10:04 10.71.57.0 u111582598 [10.71.57.0|get|1|2316803|0|0|0|2f6173736574732f696d672f65717569706f2f726f63696f2d706572657a2e706e67|]
+Sep  7 21:10:04 10.71.57.0 u111582598 open "/assets/img/equipo/michelle-cedillo.png" flags READ mode 0666
+Sep  7 21:10:04 10.71.57.0 u111582598 close "/assets/img/equipo/priscila-desantis-full.png" bytes read 2334353 written 0
+Sep  7 21:10:04 10.71.57.0 u111582598 [10.71.57.0|get|1|2334353|0|0|0|2f6173736574732f696d672f65717569706f2f7072697363696c612d646573616e7469732d66756c6c2e706e67|]
+Sep  7 21:10:04 10.71.57.0 u111582598 open "/assets/img/equipo/maivy-ordaz.png" flags READ mode 0666
+Sep  7 21:10:04 10.71.57.0 u111582598 close "/assets/img/equipo/michelle-cedillo.png" bytes read 2329999 written 0
+Sep  7 21:10:04 10.71.57.0 u111582598 [10.71.57.0|get|0|2329999|0|0|0|2f6173736574732f696d672f65717569706f2f6d696368656c6c652d636564696c6c6f2e706e67|]
+Sep  7 21:10:04 10.71.57.0 u111582598 open "/assets/img/equipo/jenifer-hernandez-full.png" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/img/equipo/maivy-ordaz.png" bytes read 2228982 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|1|2228982|0|0|0|2f6173736574732f696d672f65717569706f2f6d616976792d6f7264617a2e706e67|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/img/equipo/equipo-grupo.png" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/img/equipo/equipo-grupo.png" bytes read 151415 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|151415|0|0|0|2f6173736574732f696d672f65717569706f2f65717569706f2d677275706f2e706e67|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/img/equipo/cartel-doctores.jpeg" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/img/equipo/jenifer-hernandez-full.png" bytes read 2296180 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|1|2296180|0|0|0|2f6173736574732f696d672f65717569706f2f6a656e696665722d6865726e616e64657a2d66756c6c2e706e67|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/bootstrap/css/bootstrap.min.css" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/img/equipo/cartel-doctores.jpeg" bytes read 169748 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|169748|0|0|0|2f6173736574732f696d672f65717569706f2f63617274656c2d646f63746f7265732e6a706567|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/bootstrap/js/bootstrap.min.js" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/bootstrap/js/bootstrap.min.js" bytes read 80448 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|80448|0|0|0|2f6173736574732f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a73|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/css/styles.css" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/bootstrap/css/bootstrap.min.css" bytes read 232066 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|232066|0|0|0|2f6173736574732f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e637373|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/css/css/css/styles.css" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/css/styles.css" bytes read 19595 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|19595|0|0|0|2f6173736574732f6373732f7374796c65732e637373|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/css/css/css/css/styles.css" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/css/css/css/styles.css" bytes read 53770 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|53770|0|0|0|2f6173736574732f6373732f6373732f6373732f7374796c65732e637373|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/js/main.js" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/css/css/css/css/styles.css" bytes read 55607 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|55607|0|0|0|2f6173736574732f6373732f6373732f6373732f6373732f7374796c65732e637373|]
+Sep  7 21:10:05 10.71.57.0 u111582598 close "/assets/js/main.js" bytes read 420 written 0
+Sep  7 21:10:05 10.71.57.0 u111582598 [10.71.57.0|get|0|420|0|0|0|2f6173736574732f6a732f6d61696e2e6a73|]
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/js/js/js/main.js" flags READ mode 0666
+Sep  7 21:10:05 10.71.57.0 u111582598 open "/assets/js/js/js/js/main.js" flags READ mode 0666
+Sep  7 21:10:06 10.71.57.0 u111582598 close "/assets/js/js/js/js/main.js" bytes read 969 written 0
+Sep  7 21:10:06 10.71.57.0 u111582598 [10.71.57.0|get|1|969|0|0|0|2f6173736574732f6a732f6a732f6a732f6a732f6d61696e2e6a73|]
+Sep  7 21:10:06 10.71.57.0 u111582598 close "/assets/js/js/js/main.js" bytes read 969 written 0
+Sep  7 21:10:06 10.71.57.0 u111582598 [10.71.57.0|get|1|969|0|0|0|2f6173736574732f6a732f6a732f6a732f6d61696e2e6a73|]
+Sep  7 21:10:06 10.71.57.0 u111582598 open "/logs/access.log.36.6.gz" flags READ mode 0666
+Sep  7 21:10:06 10.71.57.0 u111582598 open "/logs/sftp.log.29.gz" flags READ mode 0666
+Sep  7 21:10:06 10.71.57.0 u111582598 close "/logs/access.log.36.6.gz" bytes read 5822 written 0
+Sep  7 21:10:06 10.71.57.0 u111582598 [10.71.57.0|get|0|5822|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e362e677a|]
+Sep  7 21:10:06 10.71.57.0 u111582598 close "/logs/sftp.log.29.gz" bytes read 10396 written 0
+Sep  7 21:10:06 10.71.57.0 u111582598 [10.71.57.0|get|0|10396|0|0|0|2f6c6f67732f736674702e6c6f672e32392e677a|]
+Sep  7 21:10:06 10.71.57.0 u111582598 open "/logs/sftp.log" flags READ mode 0666
+Sep  7 21:10:06 10.71.57.0 u111582598 open "/logs/sftp.log.36.gz" flags READ mode 0666
